@@ -1,0 +1,11 @@
+/* src/styles.css */
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+body{
+    font-family: "Rajdhani", sans-serif;
+}
+
+body {
+    background-color: #cbc7c7;
+}
